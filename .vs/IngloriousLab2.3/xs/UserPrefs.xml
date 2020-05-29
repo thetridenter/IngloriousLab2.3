@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C9B0D7C6-D0D1-4C82-A510-3EA26710931D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../IngloriousLab2.3Test/IngloriousLab2.3Test/UnitTest1.cs">
+    <Files>
+      <File FileName="IngloriousLab2.3/Program.cs" Line="5" Column="12" />
+      <File FileName="../IngloriousLab2.3Test/IngloriousLab2.3Test/UnitTest1.cs" Line="21" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IngloriousLab2.3" expanded="True">
+            <Node name="IngloriousLab2.3" expanded="True" />
+            <Node name="IngloriousLab2.3Test" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.IngloriousLab2.3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.IngloriousLab2.3Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

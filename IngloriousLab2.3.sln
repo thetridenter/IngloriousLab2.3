@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IngloriousLab2.3", "IngloriousLab2.3\IngloriousLab2.3.csproj", "{91C88DC1-5D42-4C99-8852-83E34BF828D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IngloriousLab2.3Test", "..\IngloriousLab2.3Test\IngloriousLab2.3Test\IngloriousLab2.3Test.csproj", "{C9B0D7C6-D0D1-4C82-A510-3EA26710931D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91C88DC1-5D42-4C99-8852-83E34BF828D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C88DC1-5D42-4C99-8852-83E34BF828D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91C88DC1-5D42-4C99-8852-83E34BF828D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91C88DC1-5D42-4C99-8852-83E34BF828D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B0D7C6-D0D1-4C82-A510-3EA26710931D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B0D7C6-D0D1-4C82-A510-3EA26710931D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B0D7C6-D0D1-4C82-A510-3EA26710931D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B0D7C6-D0D1-4C82-A510-3EA26710931D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
